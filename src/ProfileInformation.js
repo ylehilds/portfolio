@@ -2,7 +2,7 @@
 import { FaGithub, FaLinkedin, FaEnvelope, FaFileAlt } from "react-icons/fa";
 // Import image of your self here:
 //-- For best display purposes, your image should be sqaure (e.g. 300 X 300 px)
-import selfie from "./assets/trevor.png";
+import selfie from "./assets/lehi.jpg";
 
 //Import images for your portfolio here:
 //-- For best display purposes, each of these images should have similar porportions
@@ -12,7 +12,10 @@ import campRank from "./assets/camprank_site.png";
 import blogApp from "./assets/blogapp-site.png";
 import taskyv from "./assets/taskyv_site.png";
 import bookThinks from "./assets/bookThinks.png";
-import puppy from "./assets/puppy.png";
+import forensics from "./assets/cyber-forensics-1.jpg";
+import iot from "./assets/iot.jpg";
+// import puppy from "./assets/lehi.jpg";
+
 
 import resume from "./assets/Resume.pdf";
 
@@ -21,10 +24,10 @@ let darkMode = false;
 
 // Edit person info here
 // -- Bio is best kept to around 5 lines
-let firstName = "Trevor";
-let lastName = "Lane";
-let title = "Student / Software Engineer";
-let bio = `Currently studying Computer Science at Brigham Young Universirty and working as a software engineering intern at a company called SimpleNexus where I work with Vue.js & Rails. 
+let firstName = "Lehi";
+let lastName = "Alcantara";
+let title = "Software Engineer";
+let bio = `Currently studying Masters in Information Technology at Brigham Young Universirty and working as a software engineering at BYU OIT where I work with Nodejs & Vue.js. 
 
 Feel free to check out some of my past projects below, browse some code on my github profile, or just reach out to say hi!`;
 
@@ -37,18 +40,18 @@ let userIcons = true;
 let links = [
   {
     name: "Email",
-    link: "mailto:trevor@trevorlane.net",
+    link: "mailto:lehilds@gmail.com",
     icon: FaEnvelope
   },
   {
     name: "GitHub",
-    link: "https://github.com/trevorhere",
+    link: "https://github.com/ylehilds",
     icon: FaGithub
 
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/hi-there-trevor-here/",
+    link: "https://www.linkedin.com/in/lehi-alcantara-a13a934/",
     icon: FaLinkedin
 
   },
@@ -66,37 +69,70 @@ let links = [
 
 let portfolioTitle = "Recent Projects"
 let portfolioSectionBackgroundColor = "#003344"
+// let portfolioItems = [
+//   {
+//     imageUrl: taskyv,
+//     title: "Taskyv",
+//     description: "Sleek, sexy task manager",
+//     link: "https://taskyv.herokuapp.com/"
+//   },
+//   {
+//     imageUrl: bookThinks,
+//     title: "BookThinks",
+//     description: "Book-centric note recorder",
+//     link: "https://bookthinks.herokuapp.com/"
+//   },
+//   {
+//     imageUrl: recrootBox,
+//     title: "Recroot Box",
+//     description: "Easy to user porfolio-site template",
+//     link: "https://ylehilds.github.io/recrootBox/"
+//   },
+//   {
+//     imageUrl: campRank,
+//     title: "CampRank",
+//     description: "Post, rank and comment about your favorite campsites",
+//     link: "https://desolate-falls-89173.herokuapp.com/"
+//   },
+//   {
+//     imageUrl: blogApp,
+//     title: "Blog App",
+//     description: "Easy access blog app.",
+//     link: "https://boiling-harbor-27900.herokuapp.com"
+//   }
+// ];
+
 let portfolioItems = [
   {
-    imageUrl: taskyv,
-    title: "Taskyv",
-    description: "Sleek, sexy task manager",
-    link: "https://taskyv.herokuapp.com/"
+    imageUrl: iot,
+    title: "IoT Systems Engineering Labs",
+    description: "IoT Systems Engineering Labs & Project",
+    link: "https://lehi.dev/labs/main/"
   },
   {
-    imageUrl: bookThinks,
-    title: "BookThinks",
-    description: "Book-centric note recorder",
-    link: "https://bookthinks.herokuapp.com/"
+    imageUrl: forensics,
+    title: "Forensics Tools List",
+    description: "My Forensics Tools List Compilation",
+    link: "http://forensics.lehisdomain.com/#/"
   },
-  {
-    imageUrl: recrootBox,
-    title: "Recroot Box",
-    description: "Easy to user porfolio-site template",
-    link: "https://trevorhere.github.io/recrootBox/"
-  },
-  {
-    imageUrl: campRank,
-    title: "CampRank",
-    description: "Post, rank and comment about your favorite campsites",
-    link: "https://desolate-falls-89173.herokuapp.com/"
-  },
-  {
-    imageUrl: blogApp,
-    title: "Blog App",
-    description: "Easy access blog app.",
-    link: "https://boiling-harbor-27900.herokuapp.com"
-  }
+  // {
+  //   imageUrl: recrootBox,
+  //   title: "Recroot Box",
+  //   description: "Easy to user porfolio-site template",
+  //   link: "https://ylehilds.github.io/recrootBox/"
+  // },
+  // {
+  //   imageUrl: campRank,
+  //   title: "CampRank",
+  //   description: "Post, rank and comment about your favorite campsites",
+  //   link: "https://desolate-falls-89173.herokuapp.com/"
+  // },
+  // {
+  //   imageUrl: blogApp,
+  //   title: "Blog App",
+  //   description: "Easy access blog app.",
+  //   link: "https://boiling-harbor-27900.herokuapp.com"
+  // }
 ];
 
 
