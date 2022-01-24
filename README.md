@@ -21,8 +21,8 @@ You can use [github Pages](https://pages.github.com/) as a free hosting platform
 Running your own webserver:
 
 1. Clone your repository onto your hosting environment
-2. run `yarn install`
-3. run `yarn start`
+2. run `npm install`
+3. run `npm start`
 4. enjoy
 
 ### Option 2 (Some experience)
