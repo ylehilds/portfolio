@@ -51,7 +51,7 @@ let links = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/lehi-alcantara-a13a934/",
+    link: "https://www.linkedin.com/in/lehi-alcantara/",
     icon: FaLinkedin
 
   },
