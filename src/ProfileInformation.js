@@ -13,6 +13,7 @@ import blogApp from "./assets/blogapp-site.png";
 import taskyv from "./assets/taskyv_site.png";
 import bookThinks from "./assets/bookThinks.png";
 import forensics from "./assets/cyber-forensics-1.jpg";
+import distributedMonitoringSystems from "./assets/distributedMonitoringSystems.jpeg";
 import iot from "./assets/iot.jpg";
 // import puppy from "./assets/lehi.jpg";
 
@@ -107,7 +108,7 @@ let portfolioItems = [
     imageUrl: iot,
     title: "IoT Systems Engineering Labs",
     description: "IoT Systems Engineering Labs & Project",
-    link: "https://lehi.dev/labs/main/"
+    link: "https://ylehilds.github.io/portfolio/IoTSystemsEngineering/labs/main/"
   },
   {
     imageUrl: forensics,
@@ -115,6 +116,12 @@ let portfolioItems = [
     description: "My Forensics Tools List Compilation",
     link: "http://forensics.lehisdomain.com/#/"
   },
+  {
+    imageUrl: distributedMonitoringSystems,
+    title: "IT 515R - Data Engineering - Distributed Monitoring Systems",
+    description: "IT 515R - Data Engineering - Distributed Monitoring Systems",
+    link: "https://github.com/ylehilds/distributed-monitoring-systems"
+  }
   // {
   //   imageUrl: recrootBox,
   //   title: "Recroot Box",
