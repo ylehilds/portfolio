@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/recrootBox/static/css/main.45fb1134.css",
-    "main.js": "/recrootBox/static/js/main.d0b7b1c8.js",
+    "main.js": "/recrootBox/static/js/main.d6bfa6e2.js",
     "static/media/camprank_site.png": "/recrootBox/static/media/camprank_site.1df42016fada83436f74.png",
     "static/media/taskyv_site.png": "/recrootBox/static/media/taskyv_site.13c2574e64b2f0687b81.png",
     "static/media/bookThinks.png": "/recrootBox/static/media/bookThinks.900acdbe293c32bcf237.png",
     "static/media/blogapp-site.png": "/recrootBox/static/media/blogapp-site.b5f6ebe80a4284bf32ef.png",
-    "static/media/technicalInterviewPreparation.png": "/recrootBox/static/media/technicalInterviewPreparation.26067dcf88e466c22794.png",
-    "static/media/softwareStartup.jpeg": "/recrootBox/static/media/softwareStartup.e06d885a25cb84d941c2.jpeg",
     "static/media/recrootBox_site.png": "/recrootBox/static/media/recrootBox_site.568e92f8fc0c2430f15e.png",
-    "static/media/iot.jpg": "/recrootBox/static/media/iot.55434119f291a47a2dd5.jpg",
-    "static/media/NETLab.png": "/recrootBox/static/media/NETLab.aefa825d41f695c7f3ac.png",
-    "static/media/cyber-forensics-1.jpg": "/recrootBox/static/media/cyber-forensics-1.2c09fc97a691eac2aef9.jpg",
+    "static/media/socialMediaAnalytics.png": "/recrootBox/static/media/socialMediaAnalytics.a74b458da9a3e344d0cf.png",
+    "static/media/homeworkFirst.png": "/recrootBox/static/media/homeworkFirst.5d743715a7dc3c0c85cf.png",
     "static/media/Resume.pdf": "/recrootBox/static/media/Resume.f3253f8cf3c9db96e195.pdf",
-    "static/media/cyberSecurity.jpeg": "/recrootBox/static/media/cyberSecurity.e7df3bbe1d8ec82e9d9b.jpeg",
-    "static/media/distributedMonitoringSystems.jpeg": "/recrootBox/static/media/distributedMonitoringSystems.9d0b0a76bd4e77bf3c7a.jpeg",
-    "static/media/WirelessNetworks.jpg": "/recrootBox/static/media/WirelessNetworks.7b18b7783a6e8e1135bc.jpg",
-    "static/media/socialMediaAnalytics.png": "/recrootBox/static/media/socialMediaAnalytics.b1b049c755444d7a9709.png",
-    "static/media/homeworkFirst.png": "/recrootBox/static/media/homeworkFirst.4b8776e602a6836e0649.png",
+    "static/media/NETLab.png": "/recrootBox/static/media/NETLab.14e234eedc12564cfceb.png",
+    "static/media/iot.jpg": "/recrootBox/static/media/iot.39e83976f951c84bc672.jpg",
+    "static/media/cyber-forensics-1.jpg": "/recrootBox/static/media/cyber-forensics-1.aa2395a82ada009d1971.jpg",
+    "static/media/technicalInterviewPreparation.png": "/recrootBox/static/media/technicalInterviewPreparation.e9af7c83af4990f2905e.png",
+    "static/media/softwareStartup.jpeg": "/recrootBox/static/media/softwareStartup.4e3bcd73e1d038ff3f97.jpeg",
+    "static/media/cyberSecurity.jpeg": "/recrootBox/static/media/cyberSecurity.8ba3ce7a31b1ff3012a3.jpeg",
+    "static/media/WirelessNetworks.jpg": "/recrootBox/static/media/WirelessNetworks.e7b8615d1377f3f8c613.jpg",
+    "static/media/distributedMonitoringSystems.jpg": "/recrootBox/static/media/distributedMonitoringSystems.422362aaccd9058e8520.jpg",
     "index.html": "/recrootBox/index.html",
     "main.45fb1134.css.map": "/recrootBox/static/css/main.45fb1134.css.map",
-    "main.d0b7b1c8.js.map": "/recrootBox/static/js/main.d0b7b1c8.js.map"
+    "main.d6bfa6e2.js.map": "/recrootBox/static/js/main.d6bfa6e2.js.map"
   },
   "entrypoints": [
     "static/css/main.45fb1134.css",
-    "static/js/main.d0b7b1c8.js"
+    "static/js/main.d6bfa6e2.js"
   ]
 }
