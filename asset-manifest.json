@@ -1,15 +1,23 @@
 {
-  "main.css": "static/css/main.0478c739.css",
-  "main.css.map": "static/css/main.0478c739.css.map",
-  "main.js": "static/js/main.1bf40435.js",
-  "main.js.map": "static/js/main.1bf40435.js.map",
-  "static/media/Resume.pdf": "static/media/Resume.16e69816.pdf",
-  "static/media/blogapp-site.png": "static/media/blogapp-site.8b4c295d.png",
-  "static/media/bookThinks.png": "static/media/bookThinks.a4466285.png",
-  "static/media/camprank_site.png": "static/media/camprank_site.eec689e9.png",
-  "static/media/cyber-forensics-1.jpg": "static/media/cyber-forensics-1.11f47e4b.jpg",
-  "static/media/distributedMonitoringSystems.jpeg": "static/media/distributedMonitoringSystems.305c51fc.jpeg",
-  "static/media/iot.jpg": "static/media/iot.603763c3.jpg",
-  "static/media/recrootBox_site.png": "static/media/recrootBox_site.46f6d6ce.png",
-  "static/media/taskyv_site.png": "static/media/taskyv_site.8759a92b.png"
+  "files": {
+    "main.css": "/recrootBox/static/css/main.45fb1134.css",
+    "main.js": "/recrootBox/static/js/main.c516c275.js",
+    "static/media/camprank_site.png": "/recrootBox/static/media/camprank_site.1df42016fada83436f74.png",
+    "static/media/taskyv_site.png": "/recrootBox/static/media/taskyv_site.13c2574e64b2f0687b81.png",
+    "static/media/bookThinks.png": "/recrootBox/static/media/bookThinks.900acdbe293c32bcf237.png",
+    "static/media/blogapp-site.png": "/recrootBox/static/media/blogapp-site.b5f6ebe80a4284bf32ef.png",
+    "static/media/recrootBox_site.png": "/recrootBox/static/media/recrootBox_site.568e92f8fc0c2430f15e.png",
+    "static/media/iot.jpg": "/recrootBox/static/media/iot.55434119f291a47a2dd5.jpg",
+    "static/media/cyber-forensics-1.jpg": "/recrootBox/static/media/cyber-forensics-1.2c09fc97a691eac2aef9.jpg",
+    "static/media/Resume.pdf": "/recrootBox/static/media/Resume.f3253f8cf3c9db96e195.pdf",
+    "static/media/distributedMonitoringSystems.jpeg": "/recrootBox/static/media/distributedMonitoringSystems.9d0b0a76bd4e77bf3c7a.jpeg",
+    "static/media/WirelessNetworks.jpg": "/recrootBox/static/media/WirelessNetworks.7b18b7783a6e8e1135bc.jpg",
+    "index.html": "/recrootBox/index.html",
+    "main.45fb1134.css.map": "/recrootBox/static/css/main.45fb1134.css.map",
+    "main.c516c275.js.map": "/recrootBox/static/js/main.c516c275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45fb1134.css",
+    "static/js/main.c516c275.js"
+  ]
 }
