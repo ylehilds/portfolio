@@ -48,7 +48,7 @@ class HeaderSection extends Component {
 
           {links.map(function (item, index) {
             return (
-              <a key={index} href={item.link}>
+              <a key={index} href={item.link} target="_blank">
                 {!userIcons ? (
                   item.name
                 ) : item.icon ? (

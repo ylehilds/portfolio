@@ -55,19 +55,16 @@ let links = [
     name: "GitHub",
     link: "https://github.com/ylehilds",
     icon: FaGithub
-
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/lehi-alcantara/",
     icon: FaLinkedin
-
   },
   {
     name: "Resume",
     link: resume,
     icon: FaFileAlt
-
   }
 ];
 

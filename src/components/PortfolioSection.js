@@ -37,8 +37,8 @@ class PortfolioSection extends Component {
                     <br />
                     <br />
 
-                    <Button waves="light"  node="a" href={item.link}>
-                      <a style={{ color: "white" }} >
+                    <Button waves="light"  node="a" onClick={()=> window.open(item.link, "_blank")}>
+                      <a style={{ color: "white" }}>
                         View
                       </a>
                     </Button>
