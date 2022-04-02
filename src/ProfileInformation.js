@@ -15,7 +15,13 @@ import bookThinks from "./assets/bookThinks.png";
 import forensics from "./assets/cyber-forensics-1.jpg";
 import distributedMonitoringSystems from "./assets/distributedMonitoringSystems.jpeg";
 import WirelessNetworks from "./assets/WirelessNetworks.jpg";
+import cyberSecurity from "./assets/cyberSecurity.jpeg";
 import iot from "./assets/iot.jpg";
+import NETLab from "./assets/NETLab.png";
+import homeworkFirst from "./assets/homeworkFirst.png";
+import softwareStartup from "./assets/softwareStartup.jpeg";
+import socialMediaAnalytics from "./assets/socialMediaAnalytics.png";
+import technicalInterviewPreparation from "./assets/technicalInterviewPreparation.png";
 // import puppy from "./assets/lehi.jpg";
 
 
@@ -134,7 +140,45 @@ let portfolioItems = [
     title: "IT 548 - Cyber-Physical Systems - Smart Scale Project",
     description: "IT 548 - Cyber-Physical Systems - Smart Scale Project",
     link: "https://github.com/ylehilds/smart-scale"
+  },
+  {
+    imageUrl: cyberSecurity,
+    title: "IT 567 - Cyber Security & Pen Test - PortScanner Project",
+    description: "IT 567 - Cyber Security & Pen Test - PortScanner Project",
+    link: "https://github.com/ylehilds/PortScanner/settings"
+  },
+  {
+    imageUrl: NETLab,
+    title: "Net Lab Analyzing Mongolia Air Quality Sensors Project",
+    description: "Net Lab Analyzing Mongolia Air Quality Sensors Project",
+    link: "https://ylehilds.github.io/analyzing-mongolia/"
+  },
+  {
+    imageUrl: softwareStartup,
+    title: "IS 590R - Managing a Software Startup",
+    description: "IS 590R - Managing a Software Startup",
+    link: "https://ylehilds.github.io/homework-first/"
+  },
+  {
+    imageUrl: homeworkFirst,
+    title: "IS 590R - Managing a Software Startup Prototype Homework First",
+    description: "IS 590R - Managing a Software Startup Prototype Homework First",
+    link: "https://www.figma.com/proto/0w3lRmFOZbzDypJ5yepasj/Prototyping-in-Figma?node-id=0%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2"
+  },
+  {
+    imageUrl: socialMediaAnalytics,
+    title: "IT 670 - Web and Social Media Analytics",
+    description: "IT 670 - Web and Social Media Analytics",
+    link: "https://github.com/ylehilds/it670-project-streaming"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IS 590R - Seminar in Information Systems",
+    description: "IS 590R - Seminar in Information Systems",
+    link: "https://github.com/ylehilds/TechnicalInterviewCourse"
   }
+
+  
   // {
   //   imageUrl: recrootBox,
   //   title: "Recroot Box",
