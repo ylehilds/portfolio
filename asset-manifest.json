@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recrootBox/static/css/main.45fb1134.css",
-    "main.js": "/recrootBox/static/js/main.5612fb66.js",
+    "main.js": "/recrootBox/static/js/main.2d30cde4.js",
     "static/media/camprank_site.png": "/recrootBox/static/media/camprank_site.1df42016fada83436f74.png",
     "static/media/taskyv_site.png": "/recrootBox/static/media/taskyv_site.13c2574e64b2f0687b81.png",
     "static/media/bookThinks.png": "/recrootBox/static/media/bookThinks.900acdbe293c32bcf237.png",
@@ -10,8 +10,8 @@
     "static/media/socialMediaAnalytics.png": "/recrootBox/static/media/socialMediaAnalytics.a74b458da9a3e344d0cf.png",
     "static/media/homeworkFirst.png": "/recrootBox/static/media/homeworkFirst.5d743715a7dc3c0c85cf.png",
     "static/media/NETLab.png": "/recrootBox/static/media/NETLab.14e234eedc12564cfceb.png",
-    "static/media/Resume.pdf": "/recrootBox/static/media/Resume.7a0ee79f40834a13aa48.pdf",
     "static/media/iot.jpg": "/recrootBox/static/media/iot.39e83976f951c84bc672.jpg",
+    "static/media/Resume.pdf": "/recrootBox/static/media/Resume.a94baf46cd7028825d69.pdf",
     "static/media/cyber-forensics-1.jpg": "/recrootBox/static/media/cyber-forensics-1.aa2395a82ada009d1971.jpg",
     "static/media/technicalInterviewPreparation.png": "/recrootBox/static/media/technicalInterviewPreparation.e9af7c83af4990f2905e.png",
     "static/media/softwareStartup.jpeg": "/recrootBox/static/media/softwareStartup.4e3bcd73e1d038ff3f97.jpeg",
@@ -20,10 +20,10 @@
     "static/media/distributedMonitoringSystems.jpg": "/recrootBox/static/media/distributedMonitoringSystems.422362aaccd9058e8520.jpg",
     "index.html": "/recrootBox/index.html",
     "main.45fb1134.css.map": "/recrootBox/static/css/main.45fb1134.css.map",
-    "main.5612fb66.js.map": "/recrootBox/static/js/main.5612fb66.js.map"
+    "main.2d30cde4.js.map": "/recrootBox/static/js/main.2d30cde4.js.map"
   },
   "entrypoints": [
     "static/css/main.45fb1134.css",
-    "static/js/main.5612fb66.js"
+    "static/js/main.2d30cde4.js"
   ]
 }
