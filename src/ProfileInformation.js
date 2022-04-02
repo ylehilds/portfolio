@@ -13,7 +13,7 @@ import blogApp from "./assets/blogapp-site.png";
 import taskyv from "./assets/taskyv_site.png";
 import bookThinks from "./assets/bookThinks.png";
 import forensics from "./assets/cyber-forensics-1.jpg";
-import distributedMonitoringSystems from "./assets/distributedMonitoringSystems.jpeg";
+import distributedMonitoringSystems from "./assets/distributedMonitoringSystems.jpg";
 import WirelessNetworks from "./assets/WirelessNetworks.jpg";
 import cyberSecurity from "./assets/cyberSecurity.jpeg";
 import iot from "./assets/iot.jpg";
@@ -113,68 +113,68 @@ let portfolioSectionBackgroundColor = "#003344"
 let portfolioItems = [
   {
     imageUrl: iot,
-    title: "IoT Systems Engineering Labs",
-    description: "IoT Systems Engineering Labs & Project",
+    title: "IT 515R",
+    description: "Systems Engineering",
     link: "https://ylehilds.github.io/portfolio/IoTSystemsEngineering/labs/main/"
   },
   {
     imageUrl: forensics,
-    title: "Forensics Tools List",
-    description: "My Forensics Tools List Compilation",
+    title: "IT 566",
+    description: "Digital Forensics",
     link: "https://ylehilds.github.io/portfolio/forensics"
   },
   {
     imageUrl: distributedMonitoringSystems,
-    title: "IT 515R - Data Engineering - Distributed Monitoring Systems",
-    description: "IT 515R - Data Engineering - Distributed Monitoring Systems",
+    title: "IT 515R",
+    description: "Data Engineering",
     link: "https://github.com/ylehilds/distributed-monitoring-systems"
   },
   {
     imageUrl: WirelessNetworks,
-    title: "ECEN 522R - Introduction to Wireless Project",
-    description: "ECEN 522R - Introduction to Wireless Project",
+    title: "ECEN 522R",
+    description: "Introduction to Wireless",
     link: "https://github.com/ylehilds/wireless-networking-project"
   },
   {
     imageUrl: iot,
-    title: "IT 548 - Cyber-Physical Systems - Smart Scale Project",
-    description: "IT 548 - Cyber-Physical Systems - Smart Scale Project",
+    title: "IT 548",
+    description: "Cyber-Physical Systems",
     link: "https://github.com/ylehilds/smart-scale"
   },
   {
     imageUrl: cyberSecurity,
-    title: "IT 567 - Cyber Security & Pen Test - PortScanner Project",
-    description: "IT 567 - Cyber Security & Pen Test - PortScanner Project",
+    title: "IT 567",
+    description: "Cyber Security & Pen Test",
     link: "https://github.com/ylehilds/PortScanner/settings"
   },
   {
     imageUrl: NETLab,
-    title: "Net Lab Analyzing Mongolia Air Quality Sensors Project",
-    description: "Net Lab Analyzing Mongolia Air Quality Sensors Project",
+    title: "Net Lab",
+    description: "Analyzing Mongolia Air Quality Sensors",
     link: "https://ylehilds.github.io/analyzing-mongolia/"
   },
   {
     imageUrl: softwareStartup,
-    title: "IS 590R - Managing a Software Startup",
-    description: "IS 590R - Managing a Software Startup",
+    title: "IS 590R",
+    description: "Managing a Software Startup",
     link: "https://ylehilds.github.io/homework-first/"
   },
   {
     imageUrl: homeworkFirst,
-    title: "IS 590R - Managing a Software Startup Prototype Homework First",
-    description: "IS 590R - Managing a Software Startup Prototype Homework First",
+    title: "IS 590R",
+    description: "Prototype Homework First",
     link: "https://www.figma.com/proto/0w3lRmFOZbzDypJ5yepasj/Prototyping-in-Figma?node-id=0%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2"
   },
   {
     imageUrl: socialMediaAnalytics,
-    title: "IT 670 - Web and Social Media Analytics",
-    description: "IT 670 - Web and Social Media Analytics",
+    title: "IT 670",
+    description: "Web and Social Media Analytics",
     link: "https://github.com/ylehilds/it670-project-streaming"
   },
   {
     imageUrl: technicalInterviewPreparation,
-    title: "IS 590R - Seminar in Information Systems",
-    description: "IS 590R - Seminar in Information Systems",
+    title: "IS 590R",
+    description: "Seminar in Information Systems",
     link: "https://github.com/ylehilds/TechnicalInterviewCourse"
   }
 
