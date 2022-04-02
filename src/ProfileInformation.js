@@ -14,6 +14,7 @@ import taskyv from "./assets/taskyv_site.png";
 import bookThinks from "./assets/bookThinks.png";
 import forensics from "./assets/cyber-forensics-1.jpg";
 import distributedMonitoringSystems from "./assets/distributedMonitoringSystems.jpeg";
+import WirelessNetworks from "./assets/WirelessNetworks.jpg";
 import iot from "./assets/iot.jpg";
 // import puppy from "./assets/lehi.jpg";
 
@@ -121,6 +122,18 @@ let portfolioItems = [
     title: "IT 515R - Data Engineering - Distributed Monitoring Systems",
     description: "IT 515R - Data Engineering - Distributed Monitoring Systems",
     link: "https://github.com/ylehilds/distributed-monitoring-systems"
+  },
+  {
+    imageUrl: WirelessNetworks,
+    title: "ECEN 522R - Introduction to Wireless Project",
+    description: "ECEN 522R - Introduction to Wireless Project",
+    link: "https://github.com/ylehilds/wireless-networking-project"
+  },
+  {
+    imageUrl: iot,
+    title: "IT 548 - Cyber-Physical Systems - Smart Scale Project",
+    description: "IT 548 - Cyber-Physical Systems - Smart Scale Project",
+    link: "https://github.com/ylehilds/smart-scale"
   }
   // {
   //   imageUrl: recrootBox,
