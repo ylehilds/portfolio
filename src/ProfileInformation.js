@@ -139,7 +139,7 @@ let portfolioItems = [
   },
   {
     imageUrl: NETLab,
-    title: "Net Lab",
+    title: "NET Lab",
     description: "Analyzing Mongolia Air Quality Sensors",
     link: "https://ylehilds.github.io/analyzing-mongolia/"
   },
