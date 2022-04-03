@@ -1,8 +1,8 @@
 {
-  "name": "RecrootBox",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ylehilds.github.io/recrootBox",
+  "homepage": "http://ylehilds.github.io/portfolio",
   "dependencies": {
     "react": "^18.0.0",
     "react-bar-chart": "^0.1.0",

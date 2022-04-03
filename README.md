@@ -1,4 +1,4 @@
-# recrootBox
+# portfolio
 
 Portfolio site template for those new to web development.
 Step by step instructions can be found [here](https://www.youtube.com/watch?v=tz04HiWaPfc)
@@ -7,8 +7,8 @@ Step by step instructions can be found [here](https://www.youtube.com/watch?v=tz
 
 1. Fork this repository onto your own github account
 2. Clone your new repository
-3. Add images to `recrootBox/src/assets`
-4. Open `recrootBox/src/ProfileInformation.js` and follow instructions in this file to add your information including your bio, image links, project titles, project links, etc.
+3. Add images to `portfolio/src/assets`
+4. Open `portfolio/src/ProfileInformation.js` and follow instructions in this file to add your information including your bio, image links, project titles, project links, etc.
 
 ## Deploying the portfolio
 
@@ -33,4 +33,4 @@ If you have access to a shared hosting environment, you can copy the contents of
 
 You can use [github Pages](https://pages.github.com/) as a free hosting platform, to do so, follow these [instructions.](https://medium.com/@_mariacheline/deploy-create-react-app-project-to-github-pages-2eb6deda5b89)
 
-[View Demo](http://trevorhere.github.io/recrootBox)
+[View Demo](http://ylehilds.github.io/portfolio)

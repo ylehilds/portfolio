@@ -7,7 +7,7 @@ rm service-worker.js
 rm -rf static
 
 
- cd ../recrootBox
+ cd ../portfolio
 
 
 npm run build
