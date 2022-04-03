@@ -105,7 +105,7 @@ let portfolioItems = [
     imageUrl: iot,
     title: "IT 515R",
     description: "Systems Engineering",
-    link: "https://ylehilds.github.io/portfolio/IoTSystemsEngineering/labs/main/"
+    link: "https://ylehilds.github.io/portfolioOG/IoTSystemsEngineering/labs/main/"
   },
   {
     imageUrl: forensics,
