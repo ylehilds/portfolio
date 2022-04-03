@@ -34,7 +34,7 @@ let darkMode = false;
 let firstName = "Lehi";
 let lastName = "Alcantara";
 let title = "Software Engineer";
-let bio = `Masters in Information Technology from Brigham Young Universirty and working as a software engineer at BYU OIT where I work full stack using Nodejs & Vue.js. 
+let bio = `Masters in Information Technology from Brigham Young University and working as a software engineer at BYU OIT where I work full stack using Nodejs & Vue.js. 
 
 Feel free to check out some of my past projects below, browse some code on my github profile, or just reach out to say hi!`;
 
