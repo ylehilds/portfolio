@@ -111,7 +111,7 @@ let portfolioItems = [
     imageUrl: forensics,
     title: "IT 566",
     description: "Digital Forensics",
-    link: "https://ylehilds.github.io/portfolio/forensics"
+    link: "https://ylehilds.github.io/portfolioOG/forensics"
   },
   {
     imageUrl: distributedMonitoringSystems,
