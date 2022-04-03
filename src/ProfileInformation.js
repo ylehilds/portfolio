@@ -7,7 +7,6 @@ import selfie from "./assets/lehi.jpg";
 //Import images for your portfolio here:
 //-- For best display purposes, each of these images should have similar porportions
 
-import recrootBox from "./assets/recrootBox_site.png";
 import campRank from "./assets/camprank_site.png";
 import blogApp from "./assets/blogapp-site.png";
 import taskyv from "./assets/taskyv_site.png";
@@ -86,12 +85,6 @@ let portfolioSectionBackgroundColor = "#003344"
 //     title: "BookThinks",
 //     description: "Book-centric note recorder",
 //     link: "https://bookthinks.herokuapp.com/"
-//   },
-//   {
-//     imageUrl: recrootBox,
-//     title: "Recroot Box",
-//     description: "Easy to user porfolio-site template",
-//     link: "https://ylehilds.github.io/recrootBox/"
 //   },
 //   {
 //     imageUrl: campRank,
@@ -177,11 +170,6 @@ let portfolioItems = [
 
   
   // {
-  //   imageUrl: recrootBox,
-  //   title: "Recroot Box",
-  //   description: "Easy to user porfolio-site template",
-  //   link: "https://ylehilds.github.io/recrootBox/"
-  // },
   // {
   //   imageUrl: campRank,
   //   title: "CampRank",
