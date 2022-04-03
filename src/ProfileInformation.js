@@ -142,7 +142,7 @@ let portfolioItems = [
     imageUrl: cyberSecurity,
     title: "IT 567",
     description: "Cyber Security & Pen Test",
-    link: "https://github.com/ylehilds/PortScanner/settings"
+    link: "https://github.com/ylehilds/PortScanner"
   },
   {
     imageUrl: NETLab,
