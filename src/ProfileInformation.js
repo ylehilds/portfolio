@@ -21,7 +21,7 @@ import NETLab from "./assets/NETLab.png";
 import homeworkFirst from "./assets/homeworkFirst.png";
 import softwareStartup from "./assets/softwareStartup.jpeg";
 import socialMediaAnalytics from "./assets/socialMediaAnalytics.png";
-import technicalInterviewPreparation from "./assets/technicalInterviewPreparation.png";
+import technicalInterviewPreparation from "./assets/technicalInterviewPreparation.jpg";
 // import puppy from "./assets/lehi.jpg";
 
 
