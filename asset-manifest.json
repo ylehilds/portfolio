@@ -1,9 +1,9 @@
 {
   "main.css": "/recrootBox/static/css/main.a9563ee3.chunk.css",
-  "main.js": "/recrootBox/static/js/main.0617a12b.chunk.js",
-  "main.js.map": "/recrootBox/static/js/main.0617a12b.chunk.js.map",
-  "static/js/1.28a56ac1.chunk.js": "/recrootBox/static/js/1.28a56ac1.chunk.js",
-  "static/js/1.28a56ac1.chunk.js.map": "/recrootBox/static/js/1.28a56ac1.chunk.js.map",
+  "main.js": "/recrootBox/static/js/main.a4ba2a68.chunk.js",
+  "main.js.map": "/recrootBox/static/js/main.a4ba2a68.chunk.js.map",
+  "static/js/1.280e84ec.chunk.js": "/recrootBox/static/js/1.280e84ec.chunk.js",
+  "static/js/1.280e84ec.chunk.js.map": "/recrootBox/static/js/1.280e84ec.chunk.js.map",
   "runtime~main.js": "/recrootBox/static/js/runtime~main.5ea0282b.js",
   "runtime~main.js.map": "/recrootBox/static/js/runtime~main.5ea0282b.js.map",
   "static/media/iot.jpg": "/recrootBox/static/media/iot.5aae9630.jpg",
@@ -17,13 +17,12 @@
   "static/media/socialMediaAnalytics.png": "/recrootBox/static/media/socialMediaAnalytics.597c1e92.png",
   "static/media/technicalInterviewPreparation.jpg": "/recrootBox/static/media/technicalInterviewPreparation.7e6cd1b3.jpg",
   "static/media/Resume.pdf": "/recrootBox/static/media/Resume.d640ce45.pdf",
-  "static/media/recrootBox_site.png": "/recrootBox/static/media/recrootBox_site.46f6d6ce.png",
   "static/media/camprank_site.png": "/recrootBox/static/media/camprank_site.eec689e9.png",
   "static/media/blogapp-site.png": "/recrootBox/static/media/blogapp-site.8b4c295d.png",
   "static/media/taskyv_site.png": "/recrootBox/static/media/taskyv_site.8759a92b.png",
   "static/media/bookThinks.png": "/recrootBox/static/media/bookThinks.a4466285.png",
   "static/css/main.a9563ee3.chunk.css.map": "/recrootBox/static/css/main.a9563ee3.chunk.css.map",
   "index.html": "/recrootBox/index.html",
-  "precache-manifest.f1d6167e1f1f87595ede17bac7482eac.js": "/recrootBox/precache-manifest.f1d6167e1f1f87595ede17bac7482eac.js",
+  "precache-manifest.a7192b7995ceee3a5ac8aff7a2bab75b.js": "/recrootBox/precache-manifest.a7192b7995ceee3a5ac8aff7a2bab75b.js",
   "service-worker.js": "/recrootBox/service-worker.js"
 }
