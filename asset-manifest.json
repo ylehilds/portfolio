@@ -1,11 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.45fb1134.css",
-    "main.js": "/portfolio/static/js/main.73ca1fea.js",
-    "static/media/camprank_site.png": "/portfolio/static/media/camprank_site.1df42016fada83436f74.png",
-    "static/media/taskyv_site.png": "/portfolio/static/media/taskyv_site.13c2574e64b2f0687b81.png",
-    "static/media/bookThinks.png": "/portfolio/static/media/bookThinks.900acdbe293c32bcf237.png",
-    "static/media/blogapp-site.png": "/portfolio/static/media/blogapp-site.b5f6ebe80a4284bf32ef.png",
+    "main.js": "/portfolio/static/js/main.da017ff1.js",
     "static/media/socialMediaAnalytics.png": "/portfolio/static/media/socialMediaAnalytics.a74b458da9a3e344d0cf.png",
     "static/media/homeworkFirst.png": "/portfolio/static/media/homeworkFirst.5d743715a7dc3c0c85cf.png",
     "static/media/NETLab.png": "/portfolio/static/media/NETLab.14e234eedc12564cfceb.png",
@@ -19,10 +15,10 @@
     "static/media/distributedMonitoringSystems.jpg": "/portfolio/static/media/distributedMonitoringSystems.422362aaccd9058e8520.jpg",
     "index.html": "/portfolio/index.html",
     "main.45fb1134.css.map": "/portfolio/static/css/main.45fb1134.css.map",
-    "main.73ca1fea.js.map": "/portfolio/static/js/main.73ca1fea.js.map"
+    "main.da017ff1.js.map": "/portfolio/static/js/main.da017ff1.js.map"
   },
   "entrypoints": [
     "static/css/main.45fb1134.css",
-    "static/js/main.73ca1fea.js"
+    "static/js/main.da017ff1.js"
   ]
 }
