@@ -7,10 +7,6 @@ import selfie from "./assets/lehi.jpg";
 //Import images for your portfolio here:
 //-- For best display purposes, each of these images should have similar porportions
 
-import campRank from "./assets/camprank_site.png";
-import blogApp from "./assets/blogapp-site.png";
-import taskyv from "./assets/taskyv_site.png";
-import bookThinks from "./assets/bookThinks.png";
 import forensics from "./assets/cyber-forensics-1.jpg";
 import distributedMonitoringSystems from "./assets/distributedMonitoringSystems.jpg";
 import WirelessNetworks from "./assets/WirelessNetworks.jpg";
@@ -21,7 +17,6 @@ import homeworkFirst from "./assets/homeworkFirst.png";
 import softwareStartup from "./assets/softwareStartup.jpeg";
 import socialMediaAnalytics from "./assets/socialMediaAnalytics.png";
 import technicalInterviewPreparation from "./assets/technicalInterviewPreparation.jpg";
-// import puppy from "./assets/lehi.jpg";
 
 
 import resume from "./assets/Resume.pdf";
@@ -34,9 +29,7 @@ let darkMode = false;
 let firstName = "Lehi";
 let lastName = "Alcantara";
 let title = "Software Engineer";
-let bio = `Masters in Information Technology from Brigham Young University and working as a software engineer at BYU OIT where I work full stack using Nodejs & Vue.js. 
-
-Feel free to check out some of my past projects below, browse some code on my github profile, or just reach out to say hi!`;
+let bio = `Masters in Information Technology from Brigham Young University and working as a software engineer at BYU OIT where I work full stack using Nodejs & Vue.js. Feel free to check out some of my past projects below, browse some code on my github profile, or just reach out to say hi!`;
 
 //Edit links to external accounts or items here (e.g. github, linkedIn, leetcode, resume, etc.)
 // -- For display purposes, it's best to use between 3 and 5 links, but if you add more or less,

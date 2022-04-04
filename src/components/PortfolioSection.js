@@ -17,7 +17,7 @@ class PortfolioSection extends Component {
   render() {
 
     let darkModeStyle = this.props.darkMode ?
-      "black white-text" : {};
+      "black white-text" : '';
 
     return (
       <div className="PortfolioSection" style={PSListStyles} >
@@ -38,9 +38,9 @@ class PortfolioSection extends Component {
                     <br />
 
                     <Button waves="light"  node="a" onClick={()=> window.open(item.link, "_blank")}>
-                      <a style={{ color: "white" }}>
+                      {/* <a style={{ color: "white" }}> */}
                         View
-                      </a>
+                      {/* </a> */}
                     </Button>
                   </Card>
                 </Col>
