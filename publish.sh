@@ -1,4 +1,4 @@
- cd ../ylehilds.github.io/portfolio
+ cd ../ylehilds.github.io
 
 rm asset-manifest.json
 rm index.html
@@ -17,7 +17,7 @@ npm run build
 # mv build/index.html ../ylehilds.github.io/index.html
 mv -v build/* ../ylehilds.github.io/portfolio
 
-cd ../ylehilds.github.io/portfolio
+cd ../ylehilds.github.io
 
 git add .
 git commit -am 'deploying build'
