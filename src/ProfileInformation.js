@@ -18,7 +18,7 @@ import softwareStartup from "./assets/softwareStartup.jpeg";
 import socialMediaAnalytics from "./assets/socialMediaAnalytics.png";
 import technicalInterviewPreparation from "./assets/technicalInterviewPreparation.jpg";
 import cs236 from "./assets/cs236.jpeg";
-import cs235 from "./assets/cs235.jpeg";
+import cs235 from "./assets/cs235.jpg";
 import nodeJS from "./assets/nodeJS.png";
 import it347 from "./assets/it347.jpg";
 import todolist from "./assets/todolist.png";
