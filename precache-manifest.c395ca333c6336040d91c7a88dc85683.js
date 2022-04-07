@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "f5a975b61d9f7c10e713",
+    "revision": "55cfef4614b8ace698c4",
     "url": "/portfolio/static/css/main.17e509f5.chunk.css"
   },
   {
-    "revision": "f5a975b61d9f7c10e713",
-    "url": "/portfolio/static/js/main.fa38a4a4.chunk.js"
+    "revision": "55cfef4614b8ace698c4",
+    "url": "/portfolio/static/js/main.d50fefd1.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "cf5522b813630cf94e7e",
-    "url": "/portfolio/static/js/2.9e4d4e9d.chunk.js"
+    "revision": "b9ed370fb88191832d7a",
+    "url": "/portfolio/static/js/2.45bd8f18.chunk.js"
+  },
+  {
+    "revision": "7e6cd1b3bb1e8e129339d330d94cbdb0",
+    "url": "/portfolio/static/media/technicalInterviewPreparation.7e6cd1b3.jpg"
   },
   {
     "revision": "5aae9630315549e4134c9cf7787966dd",
@@ -52,15 +56,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/socialMediaAnalytics.597c1e92.png"
   },
   {
-    "revision": "7e6cd1b3bb1e8e129339d330d94cbdb0",
-    "url": "/portfolio/static/media/technicalInterviewPreparation.7e6cd1b3.jpg"
-  },
-  {
     "revision": "d640ce45cd3425c52b1a557de88f0d98",
     "url": "/portfolio/static/media/Resume.d640ce45.pdf"
   },
   {
-    "revision": "94f25cc235b847f8285e8927c7768428",
+    "revision": "c5b7d6f61c405ff93384e14ff191592e",
     "url": "/portfolio/index.html"
   }
 ];
