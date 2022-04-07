@@ -159,8 +159,97 @@ let portfolioItems = [
     title: "IS 590R",
     description: "Seminar in Information Systems",
     link: "https://github.com/ylehilds/TechnicalInterviewCourse"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "NodeJS",
+    description: "Certification Preparation",
+    link: "https://github.com/ylehilds/NODE.JS-APPLICATION-DEVELOPMENT-LFW211"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IT 347",
+    description: "Computer Networks",
+    link: "https://github.com/ylehilds/IT347"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IT 344",
+    description: "Operating Systems",
+    link: "https://github.com/ylehilds/IT344"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IT 344 Project",
+    description: "ToDoList Android App",
+    link: "https://github.com/ylehilds/ToDoList"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IT 327",
+    description: "Digital Communications",
+    link: "https://github.com/ylehilds/IT327"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IT 252",
+    description: "Computer Architecture & Organization",
+    link: "https://github.com/ylehilds/IT252"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "CS 100",
+    description: "Fundamentals of Computing",
+    link: "https://github.com/ylehilds/CS100"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "IT 210",
+    description: "Fundamentals of Web-Based IT",
+    link: "https://github.com/ylehilds/it210"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "CS 236",
+    description: "Discrete Structure",
+    link: "https://github.com/ylehilds/CS236"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "CS 235",
+    description: "Data Structures",
+    link: "https://github.com/ylehilds/CS235"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "ENG 316",
+    description: "Technical Communication",
+    link: "https://github.com/ylehilds/ENG316"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "INFO 2450",
+    description: "Web Application Design",
+    link: "https://github.com/ylehilds/INFO2450"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "CS 2810",
+    description: "Computer Organization & Architecture",
+    link: "https://github.com/ylehilds/CNS2810"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "CS 1410",
+    description: "Object-Oriented Programming",
+    link: "https://github.com/ylehilds/CNS1410"
+  },
+  {
+    imageUrl: technicalInterviewPreparation,
+    title: "CS 1400",
+    description: "Fundamentals Of Programming",
+    link: "https://github.com/ylehilds/CNS1400"
   }
-
   
   // {
   // {
