@@ -17,6 +17,23 @@ import homeworkFirst from "./assets/homeworkFirst.png";
 import softwareStartup from "./assets/softwareStartup.jpeg";
 import socialMediaAnalytics from "./assets/socialMediaAnalytics.png";
 import technicalInterviewPreparation from "./assets/technicalInterviewPreparation.jpg";
+import cs236 from "./assets/cs236.jpeg";
+import cs235 from "./assets/cs236.jpeg";
+import nodeJS from "./assets/nodeJS.png";
+import it347 from "./assets/it347.jpg";
+import todolist from "./assets/todolist.png";
+import it327 from "./assets/it327.jpeg";
+import it252 from "./assets/it252.png";
+import cs2810 from "./assets/cs2810.png";
+import cs100 from "./assets/cs100.jpg";
+import it210 from "./assets/it210.jpg";
+import eng316 from "./assets/eng316.jpg";
+import info2450 from "./assets/info2450.jpg";
+import cs1410 from "./assets/cs1410.png";
+import cs1400 from "./assets/cs1400.jpg";
+import it344 from "./assets/it344.jpg";
+
+
 
 
 import resume from "./assets/Resume.pdf";
@@ -161,91 +178,91 @@ let portfolioItems = [
     link: "https://github.com/ylehilds/TechnicalInterviewCourse"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: nodeJS,
     title: "NodeJS",
     description: "Certification Preparation",
     link: "https://github.com/ylehilds/NODE.JS-APPLICATION-DEVELOPMENT-LFW211"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: it347,
     title: "IT 347",
     description: "Computer Networks",
     link: "https://github.com/ylehilds/IT347"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: it344,
     title: "IT 344",
     description: "Operating Systems",
     link: "https://github.com/ylehilds/IT344"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: todolist,
     title: "IT 344 Project",
     description: "ToDoList Android App",
     link: "https://github.com/ylehilds/ToDoList"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: it327,
     title: "IT 327",
     description: "Digital Communications",
     link: "https://github.com/ylehilds/IT327"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: it252,
     title: "IT 252",
     description: "Computer Architecture & Organization",
     link: "https://github.com/ylehilds/IT252"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: cs100,
     title: "CS 100",
     description: "Fundamentals of Computing",
     link: "https://github.com/ylehilds/CS100"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: it210,
     title: "IT 210",
     description: "Fundamentals of Web-Based IT",
     link: "https://github.com/ylehilds/it210"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: cs236,
     title: "CS 236",
     description: "Discrete Structure",
     link: "https://github.com/ylehilds/CS236"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: cs235,
     title: "CS 235",
     description: "Data Structures",
     link: "https://github.com/ylehilds/CS235"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: eng316,
     title: "ENG 316",
     description: "Technical Communication",
     link: "https://github.com/ylehilds/ENG316"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: info2450,
     title: "INFO 2450",
     description: "Web Application Design",
     link: "https://github.com/ylehilds/INFO2450"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: cs2810,
     title: "CS 2810",
     description: "Computer Organization & Architecture",
     link: "https://github.com/ylehilds/CNS2810"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: cs1410,
     title: "CS 1410",
     description: "Object-Oriented Programming",
     link: "https://github.com/ylehilds/CNS1410"
   },
   {
-    imageUrl: technicalInterviewPreparation,
+    imageUrl: cs1400,
     title: "CS 1400",
     description: "Fundamentals Of Programming",
     link: "https://github.com/ylehilds/CNS1400"
