@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Resume.d640ce45.pdf"
   },
   {
-    "revision": "c0c47445501fe4cdf9b3ce86731feeda",
+    "revision": "6a7473eeeb19dbd2e4288da7fdb85c22",
     "url": "/portfolio/index.html"
   }
 ];
