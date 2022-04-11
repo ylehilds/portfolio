@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "020d613d3c6c7df0f35d",
+    "revision": "a24cbc6ffe8fe85fa321",
     "url": "/portfolio/static/css/main.17e509f5.chunk.css"
   },
   {
-    "revision": "020d613d3c6c7df0f35d",
-    "url": "/portfolio/static/js/main.a752a263.chunk.js"
+    "revision": "a24cbc6ffe8fe85fa321",
+    "url": "/portfolio/static/js/main.90196ab5.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "66301815cdb1ba228ef9",
-    "url": "/portfolio/static/js/2.3132651b.chunk.js"
+    "revision": "d709d846951ee9b66c13",
+    "url": "/portfolio/static/js/2.88ee416d.chunk.js"
   },
   {
     "revision": "5aae9630315549e4134c9cf7787966dd",
@@ -116,11 +116,15 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/it344.7b5ac631.jpg"
   },
   {
+    "revision": "a5abbaec2847b616ae2dd1bbfea5c770",
+    "url": "/portfolio/static/media/arduinoIoT.a5abbaec.png"
+  },
+  {
     "revision": "d640ce45cd3425c52b1a557de88f0d98",
     "url": "/portfolio/static/media/Resume.d640ce45.pdf"
   },
   {
-    "revision": "819ef59140e0b25c49f16fc2d7e104d0",
+    "revision": "e8c73f18fe6c23fb5c16e9e9a10d2ad6",
     "url": "/portfolio/index.html"
   }
 ];
