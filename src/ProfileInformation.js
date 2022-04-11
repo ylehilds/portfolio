@@ -32,6 +32,7 @@ import info2450 from "./assets/info2450.jpg";
 import cs1410 from "./assets/cs1410.png";
 import cs1400 from "./assets/cs1400.jpg";
 import it344 from "./assets/it344.jpg";
+import arduinoIoT from "./assets/arduinoIoT.png";
 
 
 
@@ -140,6 +141,12 @@ let portfolioItems = [
     title: "IT 548",
     description: "Cyber-Physical Systems",
     link: "https://github.com/ylehilds/smart-scale"
+  },
+  {
+    imageUrl: arduinoIoT,
+    title: "Arduinio IoT",
+    description: "Cloud Management",
+    link: "https://github.com/ylehilds/ArduinoIoT"
   },
   {
     imageUrl: cyberSecurity,
