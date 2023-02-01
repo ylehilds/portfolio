@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a24cbc6ffe8fe85fa321",
-    "url": "/portfolio/static/css/main.17e509f5.chunk.css"
+    "revision": "20b99b3f359ac6780fc5",
+    "url": "/portfolio/static/css/main.e0c0eba6.chunk.css"
   },
   {
-    "revision": "a24cbc6ffe8fe85fa321",
-    "url": "/portfolio/static/js/main.90196ab5.chunk.js"
+    "revision": "20b99b3f359ac6780fc5",
+    "url": "/portfolio/static/js/main.3039e31f.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "d709d846951ee9b66c13",
-    "url": "/portfolio/static/js/2.88ee416d.chunk.js"
+    "revision": "e7a271bf885fe8e7bf13",
+    "url": "/portfolio/static/js/2.abfdce09.chunk.js"
   },
   {
     "revision": "5aae9630315549e4134c9cf7787966dd",
@@ -124,7 +124,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Resume.d640ce45.pdf"
   },
   {
-    "revision": "e8c73f18fe6c23fb5c16e9e9a10d2ad6",
+    "revision": "f56407aa4ee92f6be425e52c933a8ddf",
+    "url": "/portfolio/static/media/LehiAlcantaraITCertification.f56407aa.pdf"
+  },
+  {
+    "revision": "342503fa4258147cad75a92927700df7",
+    "url": "/portfolio/static/media/googleAnalyticsForBeginnersCourseCertificate.342503fa.pdf"
+  },
+  {
+    "revision": "ec892de6330cba4b741fc4fcd0ec1cef",
+    "url": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.ec892de6.pdf"
+  },
+  {
+    "revision": "e1d0cba6dab994088dcc22e9208cb048",
     "url": "/portfolio/index.html"
   }
 ];
