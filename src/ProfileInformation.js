@@ -33,11 +33,10 @@ import cs1410 from "./assets/cs1410.png";
 import cs1400 from "./assets/cs1400.jpg";
 import it344 from "./assets/it344.jpg";
 import arduinoIoT from "./assets/arduinoIoT.png";
-
-
-
-
 import resume from "./assets/Resume.pdf";
+import byuitcert from "./assets/LehiAlcantaraITCertification.pdf";
+import googleanalyticsbeginner from "./assets/googleAnalyticsForBeginnersCourseCertificate.pdf";
+import googleanalyticsadvanced from "./assets/advancedGoogleAnalyticsCourseCertificate.pdf";
 
 let darkModeSwitch = true;
 let darkMode = false;
