@@ -33,6 +33,9 @@ import cs1410 from "./assets/cs1410.png";
 import cs1400 from "./assets/cs1400.jpg";
 import it344 from "./assets/it344.jpg";
 import arduinoIoT from "./assets/arduinoIoT.png";
+import cs260 from "./assets/webProgramming.png";
+import is543 from "./assets/ios-development.png";
+import recipes from "./assets/recipes3.png";
 import resume from "./assets/Resume.pdf";
 import byuitcert from "./assets/LehiAlcantaraITCertification.pdf";
 import googleanalyticsbeginner from "./assets/googleAnalyticsForBeginnersCourseCertificate.pdf";
@@ -111,6 +114,24 @@ let portfolioSectionBackgroundColor = "#003344"
 // ];
 
 let portfolioItems = [
+  {
+    imageUrl: cs260,
+    title: "CS 260",
+    description: "Web Programming",
+    link: "https://github.com/ylehilds/startup"
+  },
+  {
+    imageUrl: is543,
+    title: "IS 543",
+    description: "Mobile Platform Development (iOS)",
+    link: "https://github.com/ylehilds/IS543-Mobile-Platform-Development"
+  },
+  {
+    imageUrl: recipes,
+    title: "IS 543",
+    description: "Recipe Catalog",
+    link: "https://github.com/ylehilds/Recipes"
+  },
   {
     imageUrl: iot,
     title: "IT 515R",
