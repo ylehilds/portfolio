@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.654915a3.css",
-    "main.js": "/portfolio/static/js/main.d5ddd16f.js",
+    "main.js": "/portfolio/static/js/main.21ab7a86.js",
     "static/media/LehiAlcantaraITCertification.pdf": "/portfolio/static/media/LehiAlcantaraITCertification.6daf48856c4a80f7b5bc.pdf",
     "static/media/advancedGoogleAnalyticsCourseCertificate.pdf": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.49ce93576dd901006a47.pdf",
     "static/media/googleAnalyticsForBeginnersCourseCertificate.pdf": "/portfolio/static/media/googleAnalyticsForBeginnersCourseCertificate.088548bb1c80be1c3a19.pdf",
@@ -28,6 +28,7 @@
     "static/media/cyberSecurity.jpeg": "/portfolio/static/media/cyberSecurity.8ba3ce7a31b1ff3012a3.jpeg",
     "static/media/cs2810.png": "/portfolio/static/media/cs2810.1586d247e349b4f59d6d.png",
     "static/media/eng316.jpg": "/portfolio/static/media/eng316.bec835a8c90939aa1ace.jpg",
+    "static/media/docker-image.jpg": "/portfolio/static/media/docker-image.817163803b9af1428899.jpg",
     "static/media/cs235.jpg": "/portfolio/static/media/cs235.b0541ba2b0a146c49809.jpg",
     "static/media/cs1400.jpg": "/portfolio/static/media/cs1400.f34c49e77bcb44df5dfa.jpg",
     "static/media/WirelessNetworks.jpg": "/portfolio/static/media/WirelessNetworks.e7b8615d1377f3f8c613.jpg",
@@ -37,10 +38,10 @@
     "static/media/cs1410.png": "/portfolio/static/media/cs1410.ffe0f208e118da86224d.png",
     "index.html": "/portfolio/index.html",
     "main.654915a3.css.map": "/portfolio/static/css/main.654915a3.css.map",
-    "main.d5ddd16f.js.map": "/portfolio/static/js/main.d5ddd16f.js.map"
+    "main.21ab7a86.js.map": "/portfolio/static/js/main.21ab7a86.js.map"
   },
   "entrypoints": [
     "static/css/main.654915a3.css",
-    "static/js/main.d5ddd16f.js"
+    "static/js/main.21ab7a86.js"
   ]
 }
