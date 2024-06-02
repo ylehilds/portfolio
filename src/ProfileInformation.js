@@ -31,6 +31,7 @@ import eng316 from "./assets/eng316.jpg";
 import info2450 from "./assets/info2450.jpg";
 import cs1410 from "./assets/cs1410.png";
 import cs1400 from "./assets/cs1400.jpg";
+import multipleDockerContainers from "./assets/docker-image.jpg";
 import it344 from "./assets/it344.jpg";
 import arduinoIoT from "./assets/arduinoIoT.png";
 import cs260 from "./assets/webProgramming.png";
@@ -293,6 +294,12 @@ let portfolioItems = [
     title: "CS 1400",
     description: "Fundamentals Of Programming",
     link: "https://github.com/ylehilds/CNS1400"
+  },
+  {
+    imageUrl: multipleDockerContainers,
+    title: "Docker",
+    description: "Multiple Docker Containers",
+    link: "https://github.com/ylehilds/multiple-docker-containers"
   }
   
   // {
