@@ -38,6 +38,7 @@ import cs260 from "./assets/webProgramming.png";
 import is543 from "./assets/ios-development.png";
 import recipes from "./assets/recipes3.png";
 import resume from "./assets/Resume.pdf";
+import automation from "./assets/automation.png";
 import byuitcert from "./assets/LehiAlcantaraITCertification.pdf";
 import googleanalyticsbeginner from "./assets/googleAnalyticsForBeginnersCourseCertificate.pdf";
 import googleanalyticsadvanced from "./assets/advancedGoogleAnalyticsCourseCertificate.pdf";
@@ -300,6 +301,12 @@ let portfolioItems = [
     title: "Docker",
     description: "Multiple Docker Containers",
     link: "https://github.com/ylehilds/multiple-docker-containers"
+  },
+  {
+    imageUrl: automation,
+    title: "Smart",
+    description: "Automation",
+    link: "https://github.com/ylehilds/home_automation"
   }
   
   // {
