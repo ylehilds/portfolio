@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.654915a3.css",
-    "main.js": "/portfolio/static/js/main.e588269a.js",
+    "main.js": "/portfolio/static/js/main.d37720b3.js",
     "static/media/LehiAlcantaraITCertification.pdf": "/portfolio/static/media/LehiAlcantaraITCertification.6daf48856c4a80f7b5bc.pdf",
     "static/media/advancedGoogleAnalyticsCourseCertificate.pdf": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.49ce93576dd901006a47.pdf",
     "static/media/googleAnalyticsForBeginnersCourseCertificate.pdf": "/portfolio/static/media/googleAnalyticsForBeginnersCourseCertificate.088548bb1c80be1c3a19.pdf",
     "static/media/recipes3.png": "/portfolio/static/media/recipes3.73a0c566712d76f72645.png",
     "static/media/automation.png": "/portfolio/static/media/automation.916f5f6d96c8682648c7.png",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.42833bcfe99263283f93.pdf",
     "static/media/socialMediaAnalytics.png": "/portfolio/static/media/socialMediaAnalytics.a74b458da9a3e344d0cf.png",
     "static/media/homeworkFirst.png": "/portfolio/static/media/homeworkFirst.5d743715a7dc3c0c85cf.png",
     "static/media/it327.jpeg": "/portfolio/static/media/it327.e8cd2aaf0f8b25792a1b.jpeg",
@@ -15,7 +16,6 @@
     "static/media/NETLab.png": "/portfolio/static/media/NETLab.14e234eedc12564cfceb.png",
     "static/media/info2450.jpg": "/portfolio/static/media/info2450.9f489ea12ed900f867ab.jpg",
     "static/media/iot.jpg": "/portfolio/static/media/iot.39e83976f951c84bc672.jpg",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.0ecddf6ff0fe1dc8a76b.pdf",
     "static/media/it252.png": "/portfolio/static/media/it252.35f750a1f52491fcc314.png",
     "static/media/it344.jpg": "/portfolio/static/media/it344.99b0048cb97d22863b89.jpg",
     "static/media/ios-development.png": "/portfolio/static/media/ios-development.81fc043a5d4efbf7cc88.png",
@@ -39,10 +39,10 @@
     "static/media/cs1410.png": "/portfolio/static/media/cs1410.ffe0f208e118da86224d.png",
     "index.html": "/portfolio/index.html",
     "main.654915a3.css.map": "/portfolio/static/css/main.654915a3.css.map",
-    "main.e588269a.js.map": "/portfolio/static/js/main.e588269a.js.map"
+    "main.d37720b3.js.map": "/portfolio/static/js/main.d37720b3.js.map"
   },
   "entrypoints": [
     "static/css/main.654915a3.css",
-    "static/js/main.e588269a.js"
+    "static/js/main.d37720b3.js"
   ]
 }
