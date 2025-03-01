@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.654915a3.css",
-    "main.js": "/portfolio/static/js/main.22fbbcd4.js",
+    "main.js": "/portfolio/static/js/main.225e522c.js",
     "static/media/LehiAlcantaraITCertification.pdf": "/portfolio/static/media/LehiAlcantaraITCertification.6daf48856c4a80f7b5bc.pdf",
     "static/media/advancedGoogleAnalyticsCourseCertificate.pdf": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.49ce93576dd901006a47.pdf",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.4494ffb4aaf25bbab5d5.pdf",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.c3178a639615cda1f8f6.pdf",
     "static/media/googleAnalyticsForBeginnersCourseCertificate.pdf": "/portfolio/static/media/googleAnalyticsForBeginnersCourseCertificate.088548bb1c80be1c3a19.pdf",
     "static/media/recipes3.png": "/portfolio/static/media/recipes3.73a0c566712d76f72645.png",
     "static/media/automation.png": "/portfolio/static/media/automation.916f5f6d96c8682648c7.png",
@@ -39,10 +39,10 @@
     "static/media/cs1410.png": "/portfolio/static/media/cs1410.ffe0f208e118da86224d.png",
     "index.html": "/portfolio/index.html",
     "main.654915a3.css.map": "/portfolio/static/css/main.654915a3.css.map",
-    "main.22fbbcd4.js.map": "/portfolio/static/js/main.22fbbcd4.js.map"
+    "main.225e522c.js.map": "/portfolio/static/js/main.225e522c.js.map"
   },
   "entrypoints": [
     "static/css/main.654915a3.css",
-    "static/js/main.22fbbcd4.js"
+    "static/js/main.225e522c.js"
   ]
 }
