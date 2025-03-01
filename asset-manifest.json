@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.654915a3.css",
-    "main.js": "/portfolio/static/js/main.225e522c.js",
+    "main.js": "/portfolio/static/js/main.23dc18fc.js",
     "static/media/LehiAlcantaraITCertification.pdf": "/portfolio/static/media/LehiAlcantaraITCertification.6daf48856c4a80f7b5bc.pdf",
     "static/media/advancedGoogleAnalyticsCourseCertificate.pdf": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.49ce93576dd901006a47.pdf",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.c3178a639615cda1f8f6.pdf",
@@ -39,10 +39,10 @@
     "static/media/cs1410.png": "/portfolio/static/media/cs1410.ffe0f208e118da86224d.png",
     "index.html": "/portfolio/index.html",
     "main.654915a3.css.map": "/portfolio/static/css/main.654915a3.css.map",
-    "main.225e522c.js.map": "/portfolio/static/js/main.225e522c.js.map"
+    "main.23dc18fc.js.map": "/portfolio/static/js/main.23dc18fc.js.map"
   },
   "entrypoints": [
     "static/css/main.654915a3.css",
-    "static/js/main.225e522c.js"
+    "static/js/main.23dc18fc.js"
   ]
 }
