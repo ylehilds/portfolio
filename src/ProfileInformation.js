@@ -77,7 +77,7 @@ let links = [
   },
   {
     name: "Resume",
-    link: resume,
+    link: "https://docs.google.com/document/d/11CkAcIsgB_CsAl3MeOWHkGfEtwMkPRzk8thyB4OraBo/edit?usp=sharing",
     icon: FaFileAlt
   }
 ];
