@@ -3,3 +3,29 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.ps-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* always 3 per row */
+    gap: 24px;
+}
+
+@media (max-width: 992px) {        /* tweak to match your breakpoints */
+    .ps-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+    .ps-grid { grid-template-columns: 1fr; }
+}
+
+.ps-cell {
+    display: flex;                   /* lets the card stretch to the cell's height */
+}
+
+.ps-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.ps-card-body { flex: 1; }         /* variable text expands; buttons stick to bottom */
+.ps-card-actions { margin-top: auto; display:flex; gap:10px; flex-wrap:wrap; }

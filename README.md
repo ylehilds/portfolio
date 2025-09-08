@@ -21,9 +21,11 @@ You can use [github Pages](https://pages.github.com/) as a free hosting platform
 Running your own webserver:
 
 1. Clone your repository onto your hosting environment
-2. run `npm install`
-3. run `npm start`
-4. enjoy
+2. use node 24:
+   - nvm i 24
+3. run `npm i --legacy-peer-deps`
+4. run `npm start`
+5. Note: Dark/Light toggle doesn't work locally but will online, same with buttons.
 
 ### Option 2 (Some experience)
 

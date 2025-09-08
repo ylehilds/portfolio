@@ -23,30 +23,33 @@ class PortfolioSection extends Component {
       <div className="PortfolioSection" style={PSListStyles} >
         <h1 className="PS-Title">{portfolioTitle}</h1>
         <div style={PSListStyles} className="PS-List">
-          <Row children={2}>
-            {portfolioItems.map((item, index) => {
-              return (
-                <Col key={index} s={12} m={4} l={4} xl={4}>
-                  <Card
-                    className={darkModeStyle}
-                    header={<CardTitle image={item.imageUrl} waves="light" />}
-                    title={item.title}
-                  >
-                    <hr />
-                    {item.description}
-                    <br />
-                    <br />
-
-                    <Button waves="light"  node="a" onClick={()=> window.open(item.link, "_blank")}>
-                      {/* <a style={{ color: "white" }}> */}
-                        View
-                      {/* </a> */}
-                    </Button>
-                  </Card>
-                </Col>
-              );
-            })}
-          </Row>
+            <Row className="ps-row">
+                <div className="ps-grid">
+                    {portfolioItems.map((item, i) => (
+                        <div key={i} className="ps-cell">
+                            <Card
+                                className={`ps-card ${darkModeStyle}`}
+                                header={<CardTitle image={item.imageUrl} waves="light" />}
+                                title={item.title}
+                            >
+                                <div className="ps-card-body">
+                                    <hr />
+                                    <b>Tech: </b> {item.tech}
+                                    <br /><br />
+                                    {item.description}
+                                </div>
+                                <br />
+                                <div className="ps-card-actions">
+                                    <Button waves="light" node="a" onClick={() => window.open(item.githubLink, "_blank")}>GitHub</Button>
+                                    {item.demo && (
+                                        <Button waves="light" node="a" onClick={() => window.open(item.demo, "_blank")}>Demo</Button>
+                                    )}
+                                </div>
+                            </Card>
+                        </div>
+                    ))}
+                </div>
+            </Row>
         </div>
       </div>
     );
