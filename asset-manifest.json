@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.654915a3.css",
-    "main.js": "/portfolio/static/js/main.7e450c5c.js",
+    "main.css": "/portfolio/static/css/main.8ad9b603.css",
+    "main.js": "/portfolio/static/js/main.3184f139.js",
     "static/media/LehiAlcantaraITCertification.pdf": "/portfolio/static/media/LehiAlcantaraITCertification.6daf48856c4a80f7b5bc.pdf",
     "static/media/advancedGoogleAnalyticsCourseCertificate.pdf": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.49ce93576dd901006a47.pdf",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.c3178a639615cda1f8f6.pdf",
@@ -16,6 +16,7 @@
     "static/media/NETLab.png": "/portfolio/static/media/NETLab.14e234eedc12564cfceb.png",
     "static/media/info2450.jpg": "/portfolio/static/media/info2450.9f489ea12ed900f867ab.jpg",
     "static/media/iot.jpg": "/portfolio/static/media/iot.39e83976f951c84bc672.jpg",
+    "static/media/cyberPhisicalSystems.jpeg": "/portfolio/static/media/cyberPhisicalSystems.ae06e29413a836ffa6c2.jpeg",
     "static/media/it252.png": "/portfolio/static/media/it252.35f750a1f52491fcc314.png",
     "static/media/it344.jpg": "/portfolio/static/media/it344.99b0048cb97d22863b89.jpg",
     "static/media/ios-development.png": "/portfolio/static/media/ios-development.81fc043a5d4efbf7cc88.png",
@@ -32,17 +33,17 @@
     "static/media/docker-image.jpg": "/portfolio/static/media/docker-image.817163803b9af1428899.jpg",
     "static/media/cs235.jpg": "/portfolio/static/media/cs235.b0541ba2b0a146c49809.jpg",
     "static/media/cs1400.jpg": "/portfolio/static/media/cs1400.f34c49e77bcb44df5dfa.jpg",
+    "static/media/etlPipeline.png": "/portfolio/static/media/etlPipeline.12df2fd6b19dd551d818.png",
     "static/media/WirelessNetworks.jpg": "/portfolio/static/media/WirelessNetworks.e7b8615d1377f3f8c613.jpg",
     "static/media/webProgramming.png": "/portfolio/static/media/webProgramming.1891be86d1bba588cbca.png",
     "static/media/nodeJS.png": "/portfolio/static/media/nodeJS.841b6d52e5b76c13cc1f.png",
-    "static/media/distributedMonitoringSystems.jpg": "/portfolio/static/media/distributedMonitoringSystems.422362aaccd9058e8520.jpg",
     "static/media/cs1410.png": "/portfolio/static/media/cs1410.ffe0f208e118da86224d.png",
     "index.html": "/portfolio/index.html",
-    "main.654915a3.css.map": "/portfolio/static/css/main.654915a3.css.map",
-    "main.7e450c5c.js.map": "/portfolio/static/js/main.7e450c5c.js.map"
+    "main.8ad9b603.css.map": "/portfolio/static/css/main.8ad9b603.css.map",
+    "main.3184f139.js.map": "/portfolio/static/js/main.3184f139.js.map"
   },
   "entrypoints": [
-    "static/css/main.654915a3.css",
-    "static/js/main.7e450c5c.js"
+    "static/css/main.8ad9b603.css",
+    "static/js/main.3184f139.js"
   ]
 }
