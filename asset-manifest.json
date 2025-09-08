@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.654915a3.css",
-    "main.js": "/portfolio/static/js/main.fd108605.js",
+    "main.js": "/portfolio/static/js/main.76bd7178.js",
     "static/media/LehiAlcantaraITCertification.pdf": "/portfolio/static/media/LehiAlcantaraITCertification.6daf48856c4a80f7b5bc.pdf",
     "static/media/advancedGoogleAnalyticsCourseCertificate.pdf": "/portfolio/static/media/advancedGoogleAnalyticsCourseCertificate.49ce93576dd901006a47.pdf",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.c3178a639615cda1f8f6.pdf",
@@ -11,7 +11,7 @@
     "static/media/socialMediaAnalytics.png": "/portfolio/static/media/socialMediaAnalytics.a74b458da9a3e344d0cf.png",
     "static/media/homeworkFirst.png": "/portfolio/static/media/homeworkFirst.5d743715a7dc3c0c85cf.png",
     "static/media/it327.jpeg": "/portfolio/static/media/it327.e8cd2aaf0f8b25792a1b.jpeg",
-    "static/media/todolist.png": "/portfolio/static/media/todolist.1afd846a2874903e8119.png",
+    "static/media/androidApp.png": "/portfolio/static/media/androidApp.2d4ebac981c8b817083c.png",
     "static/media/it347.jpg": "/portfolio/static/media/it347.44c86e6c25170672ebc1.jpg",
     "static/media/NETLab.png": "/portfolio/static/media/NETLab.14e234eedc12564cfceb.png",
     "static/media/info2450.jpg": "/portfolio/static/media/info2450.9f489ea12ed900f867ab.jpg",
@@ -39,10 +39,10 @@
     "static/media/cs1410.png": "/portfolio/static/media/cs1410.ffe0f208e118da86224d.png",
     "index.html": "/portfolio/index.html",
     "main.654915a3.css.map": "/portfolio/static/css/main.654915a3.css.map",
-    "main.fd108605.js.map": "/portfolio/static/js/main.fd108605.js.map"
+    "main.76bd7178.js.map": "/portfolio/static/js/main.76bd7178.js.map"
   },
   "entrypoints": [
     "static/css/main.654915a3.css",
-    "static/js/main.fd108605.js"
+    "static/js/main.76bd7178.js"
   ]
 }
